@@ -2,7 +2,7 @@
 
 A modern React application that allows users to search for movies, view detailed information, rate them, and maintain a personal watchlist. Built with React hooks, custom components, and the OMDB API.
 
-![usePopcorn App Screenshot](./public/Screenshot%202025-06-17%20at%205.54.46%20PM.png)
+![usePopcorn App Screenshot](./public/Screenshot%202025-06-17%20at%205.54.46 PM.png)
 
 ## ✨ Features
 
