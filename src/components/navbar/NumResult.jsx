@@ -1,0 +1,12 @@
+import React from "react";
+// NumResult for NavBar
+function NumResult({movies}) {
+    return (
+        <p className="num-results">
+            Found <strong>{movies?.length ? movies.length : 0}</strong> results
+        </p>
+    );
+}
+
+
+export default NumResult;
